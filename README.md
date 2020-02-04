@@ -2,7 +2,7 @@
 
 Copyright (C) 2020 by Chris Byrneham.
 
-Keeps Orvibo S20 sockets viable by synchronising the time.
+Keeps Orvibo(c) S20 sockets viable by synchronising the time.
 
 This arduino sketch for an ESP8266 effectively keeps the switches working.
 
