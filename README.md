@@ -55,7 +55,7 @@ Paypal Contributions are appreciated  chris@byrneham.com
 
 ## References and thanks to;
 
-Fernando M Silva  fcr@netcabo.pt , A useful PHP web app for S20s. 
+Fernando M Silva  fcr@netcabo.pt , A useful PHP web app for S20s. https://github.com/fernadosilva/orvfms
 
 Andrius A Tikonas , for his work on reverse engineering the protocol.
 
