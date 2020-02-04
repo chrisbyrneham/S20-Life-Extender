@@ -20,16 +20,18 @@ In order to use this sketch with a blank ESP8266 you must know how to use the Ar
 When the sketch is running on the ESP8266 you must set some parameters.
 
 When the sketch starts it tries to load previous parameters from EEPROM.
-Then it listens to the serial monitor for a while.
-Then it listens on a web page on a temporary access point for a while.
+Then it listens to the serial monitor for a while (45 seconds).
+Then it listens on a web page on a temporary access point for a while (120 seconds).
 Then it uses hard coded values if present.
+
+Once the parameters have been set they are stored in EEPROM flash memory, you just have to wait for a few minutes before it starts.
 
 There are four ways of setting the necessary SSID, Password, and Timezone offset parameters;
 
 1) Hard code them.
 2) Enter by using the arduino IDE serial monitor.
-3) Enter by using a standalone access point TEMPSSID ( no password ) on a web server on http://192.168.1.100
-4) I can supply ESP8266s programmed and ready to go for £10.00 plus postage. Hard coding values if required.
+3) Enter by using a standalone access point TEMPSSID ( no password ) on a web server form on http://192.168.1.100
+4) I can supply ESP8266s programmed and ready to go for £10.00 plus postage. Hard coding values for you if required.
 
 
 ## Hard code them.
