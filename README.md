@@ -11,12 +11,11 @@ The cost of an ESP8266 is only a few pounds.
 Orvibo the suppliers of the switches stopped hosting the server that was called to get the time, effectively rendering them useless.
 
 This software was developed independently and is not supported or endorsed in any way by Orvibo (c).
-This software is 
 
-The switches are normally controlled by the Wiwo app which still works but,
+The switches are normally controlled by the Wiwo phone app which still works for me but,
 when the switches are powered on they can't get access to the server to do a time update so they default to 1 Jan 1900.
 
-In order to use this sketch with a blank ESP8266 you must know how to use the Arduino IDE and be able to use the board manager, add extra libraries etc.
+In order to use this sketch with a blank ESP8266 you must know how to use the Arduino IDE and be able to use the board manager, add extra libraries etc. Otherwise see option 4 below.
 
 When the sketch is running on the ESP8266 you must set some parameters.
 
