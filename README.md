@@ -8,7 +8,7 @@ This arduino sketch for an ESP8266 effectively keeps the switches working.
 
 The cost of an ESP8266 is only a few pounds. 
 
-Orvibo the suppliers of the switches stopped hosting the server that was called to get the time, effectively rendering them useless.
+Orvibo the suppliers of the switches stopped hosting the server that was called to get time updates, effectively rendering them useless.
 
 This software was developed independently and is not supported or endorsed in any way by Orvibo (c).
 
