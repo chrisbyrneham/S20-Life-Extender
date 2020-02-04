@@ -15,17 +15,21 @@ This software was developed independently and is not supported or endorsed in an
 The switches are normally controlled by the Wiwo app which still works but,
 when the switches are powered on they can't get access to the server to do a time update so they default to 1 Jan 1900.
 
-In order to use this sketch you must set some parameters.
+In order to use this sketch with a blank ESP8266 you must know how to use the Arduino IDE and be able to use the board manager, add extra libraries etc.
+
+When the sketch is running on the ESP8266 you must set some parameters.
 
 When the sketch starts it tries to load previous parameters from EEPROM.
-
+Then it listens to the serial monitor for a while.
+Then it listens on a web page on a temporary access point for a while.
+Then it uses hard coded values if present.
 
 There are four ways of setting the necessary SSID, Password, and Timezone offset parameters;
 
 1) Hard code them.
 2) Enter by using the arduino IDE serial monitor.
 3) Enter by using a standalone access point TEMPSSID ( no password ) on a web server on http://192.168.1.100
-4) I can supply ESP8266s programmed and ready to go for £10.00 plus postage.
+4) I can supply ESP8266s programmed and ready to go for £10.00 plus postage. Hard coding values if required.
 
 
 1) Hard code them.
