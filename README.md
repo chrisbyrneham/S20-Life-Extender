@@ -46,11 +46,12 @@ Use the TEMPSSID WiFi access point and go to http://192.168.1.100 to enter the v
 
 ## Pay me to do it.
 
-Email me and, or send £10 plus appropriate postage from U.K. to your country. I can hard code the values for you.
+Email me and, or send £10 plus appropriate postage from U.K. to your country. I can hard code the values for you if required.
 
-Paypal Contributions appreciated  chris@byrneham.com
+Paypal Contributions are appreciated  chris@byrneham.com
 
-References and thanks to;
+
+## References and thanks to;
 
 Fernando M Silva  fcr@netcabo.pt , A useful PHP web app for S20s. 
 
