@@ -49,13 +49,12 @@ Use the TEMPSSID WiFi access point and go to http://192.168.1.100 to enter the v
 
 Email me and, or send £10 plus appropriate postage from U.K. to your country. I can hard code the values for you.
 
-
 Paypal Contributions appreciated  chris@byrneham.com
 
 References and thanks to;
 
-Fernando M Silva  fcr@netcabo.pt , A PHP web app for S20s 
+Fernando M Silva  fcr@netcabo.pt , A useful PHP web app for S20s. 
 
-Andrius A Tikonas , for initial work on reverse engineering the protocol.
+Andrius A Tikonas , for his work on reverse engineering the protocol.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
