@@ -18,7 +18,19 @@ But see;
 
 You could add a switch on a data input pin for Daylight Saving Time, or just have two ESP8266 units for summer and winter.
 
+To get core ESP8266 libraries for Arduino IDE 
+IDE File Preferences 'Additional Board Manager Urls' add;
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+Then go to Tools, Board,Board Manager and install ESP8266 support.
+
 Libraries needed;
+Timemark Copyright (C) 2016, Mikael Patel https://github.com/mikaelpatel/Arduino-Timemark
+ESP8266WebServer Copyright (c) 2014 Ivan Grokhotkov.
+ESP8266WiFi - esp8266 Wifi support. Based on WiFi.h from Arduino WiFi shield library. Copyright (c) 2011-2014 Arduino. Modified by Ivan Grokhotkov, December 2014
+ESPAsyncUDP https://github.com/me-no-dev/ESPAsyncUDP
+EEPROM.cpp - esp8266 EEPROM emulation  Copyright (c) 2014 Ivan Grokhotkov. 
+
 
 There are four ways of setting the necessary SSID, Password, and Timezone offset parameters;
 
@@ -33,7 +45,7 @@ References and thanks to;
 
 Fernando M Silva  fcr@netcabo.pt , A PHP web app for S20s 
 Andrius A Tikonas , for initial work on reverse engineering the protocol.
- 
+Plus all library developers above.
  
 */
 #include <Arduino.h>
