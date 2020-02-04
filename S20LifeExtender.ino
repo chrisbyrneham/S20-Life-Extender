@@ -47,6 +47,10 @@ Fernando M Silva  fcr@netcabo.pt , A PHP web app for S20s
 Andrius A Tikonas , for initial work on reverse engineering the protocol.
 Plus all library developers above.
  
+Building; Sketch, Upload;
+You can ignore the warning;
+WARNING: library Timemark claims to run on (avr) architecture(s) and may be incompatible with your current board which runs on (esp8266) architecture(s).
+ 
 */
 #include <Arduino.h>
 
