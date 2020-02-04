@@ -13,9 +13,9 @@ Orvibo the suppliers of the switches stopped hosting the server that was called 
 This software was developed independently and is not supported or endorsed in any way by Orvibo (c).
 
 The switches are normally controlled by the Wiwo phone app which still works for me but,
-when the switches are powered on they can't get access to the server to do a time update so they default to 1 Jan 1900.
+once the switches loose power, they can't get access to the server to do a time update so they default to 1 Jan 1900.
 
-In order to use this sketch with a blank ESP8266 you must know how to use the Arduino IDE and be able to use the board manager, add extra libraries etc. Otherwise see option 4 below.
+In order to use this sketch with a blank ESP8266 you must know how to use the Arduino IDE and be able to use the board manager, add extra libraries etc. This information is freely available on the web but I can't repeat it all here. Otherwise see option 4 below.
 
 When the sketch is running on the ESP8266 you must set some parameters.
 
