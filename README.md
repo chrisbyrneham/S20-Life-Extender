@@ -32,19 +32,19 @@ There are four ways of setting the necessary SSID, Password, and Timezone offset
 4) I can supply ESP8266s programmed and ready to go for £10.00 plus postage. Hard coding values if required.
 
 
-1) Hard code them.
+##Hard code them.
 
 Enter the values into the three variables named hardCoded??????;
 
-2) Use the serial monitor.
+##Use the serial monitor.
 
 Use the free Arduino IDE to upload the sketch, then use the serial monitor to enter the SSID,Password, and offset in that order.
 
-3) Use the temporary access point.
+##Use the temporary access point.
 
 Use the TEMPSSID WiFi access point and go to http://192.168.1.100 to enter the values.
 
-4) Pay me to do it.
+##Pay me to do it.
 
 Email me and, or send £10 plus appropriate postage from U.K. to your country. I can hard code the values for you.
 
