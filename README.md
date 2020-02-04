@@ -12,7 +12,7 @@ When the switches are powered on they can't get access to the server to do a tim
 
 There are four ways of setting the necessary SSID, Password, and Timezone offset parameters;
 
-1) Hard code them
-2) Enter by using the arduino IDE serial monitor
+1) Hard code them.
+2) Enter by using the arduino IDE serial monitor.
 3) Enter by using a standalone access point TEMPSSID ( no password ) on a web server on http://192.168.1.100
 4) I can supply ESP8266s programmed and ready to go for £10.00 plus postage.
